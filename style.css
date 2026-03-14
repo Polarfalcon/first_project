@@ -1,4 +1,4 @@
-      
+      <style>
          body {
                backround-color: Lightblue;
               }
@@ -10,9 +10,4 @@
            font-family: verdana;
            font-size: 20px;
            }
-        h1{
-           font-size: 50px;
-          }
-        h3{
-           font-size: 22px;
-           }
+       </style> 
